@@ -1,3 +1,2 @@
 # collaboration-project
-Phil
-Benni
+Phil Baris
